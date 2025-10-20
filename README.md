@@ -46,7 +46,7 @@
 
 ### C4-модель
 
-![Image alt](https://github.com/MichelVol1/contact_center_software_backend/blob/main/C4-model.pdf)
+![Image](https://github.com/MichelVol1/contact_center_software_backend/blob/main/C4-model.pdf)
 
 ### Схема данных
 
