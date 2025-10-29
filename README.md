@@ -49,7 +49,7 @@
 ![Image](https://github.com/MichelVol1/contact_center_software_backend/blob/main/C4-model.pdf)
 
 ### Схема данных
-
+![Image](https://github.com/MichelVol1/contact_center_software_backend/blob/main/БД.png)
 Описание отношений и структур данных, используемых в ПС. Также представить скрипт (программный код), который необходим для генерации БД
 
 ---
