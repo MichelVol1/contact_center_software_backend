@@ -125,7 +125,7 @@ WebSocket компоненты:
 • Team_KPI — командные KPI для групп операторов  
 
 ### Схема данных
-![Image](https://github.com/MichelVol1/contact_center_software_backend/blob/main/БД.png)
+![Image](https://github.com/MichelVol1/contact_center_software_backend/blob/main/База данных.png)
 Описание отношений и структур данных, используемых в ПС. Также представить скрипт (программный код), который необходим для генерации БД
 
 ---
